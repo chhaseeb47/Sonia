@@ -1,0 +1,53 @@
+css
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #f0f0f0;
+}
+
+.circle-container {
+  margin-top: 30px;
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid red;
+  border-top: 5px solid blue;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 5px;
+}
+
+.profile-pic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.button-box {
+  margin-top: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.footer {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.whatsapp-btn {
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #25d366;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+  text-decoration: none;
+}
+ server or localhost (XAMPP/Laragon/etc.). Let me know if you'd like a downloadable zip—currently, I can't send actual files.
